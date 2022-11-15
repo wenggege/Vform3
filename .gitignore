@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+/.idea/
+/.vscode/
+/stats.html
+*.iml
+/package-lock.json
+/lib/vuedraggable/dist_bak/
